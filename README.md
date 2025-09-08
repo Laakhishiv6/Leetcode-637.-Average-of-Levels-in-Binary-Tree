@@ -16,6 +16,8 @@ Precision: Results must be accurate within 0.00001
 
 Example:
 
+<img width="378" height="411" alt="image" src="https://github.com/user-attachments/assets/5768ec02-c7bc-4001-a247-85f9ff9d4059" />
+
 Input: root = [3,9,20,null,null,15,7]
 
 Output: [3.00000,14.50000,11.00000]
